@@ -41,4 +41,6 @@ func main() {
 
 	fmt.Printf("Circle area: %f\n", getArea(circle))
 	fmt.Printf("Rectangle area: %f\n", getArea(rectangle))
+	
+	fmt.Printf("Rectangle area: %f\n", getArea(rectangle))
 }
